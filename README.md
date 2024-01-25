@@ -3,7 +3,7 @@
 - 👀 I’m interested in pushing personal and technological boundaries while building towards solutions that hopefully can bring positive change to others around me
   
 - 🌱 I’m currently learning utilizing the UR10 (and soon UR20) and machine learning classification software to categorize machined parts and continue them through a factory process (whether be picking/placing/etc)
--     - I want to further my codebase and skills while implementing my software development experince into new fields like robotics and machine/deep learning
+     - I want to further my codebase and skills while implementing my software development experince into new fields like robotics and machine/deep learning
   
 - 📫 my email is hpw6813@gmail.com
   
