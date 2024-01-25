@@ -7,7 +7,7 @@
   
 - 📫 my email is hpw6813@gmail.com
   
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I did not have any coding/development experience prior to RIT. My experiences with CNC machines, Laser Cutters, and work within AutoCad during highschool is what peaked my interests in technologies that I was not previously familiar with
 
 <!---
 hootxdontxboot/hootxdontxboot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
