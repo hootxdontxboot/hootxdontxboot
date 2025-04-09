@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m Hunter White (@hootxdontxboot)
+# 👋 Hey, I’m Hunter White (@hootxdontxboot)
 
 I’m a 5th-year **Software Engineering** student at **Rochester Institute of Technology (RIT)**, concurrently completing my **MBA** as part of the 4+1 Scholars Program. I'm passionate about the intersection of **software, robotics, and artificial intelligence**, and I’m driven by a mission to apply tech in ways that reduce waste, optimize workflows, and improve lives.
 
