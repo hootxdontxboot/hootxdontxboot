@@ -22,19 +22,19 @@ Highlights:
 
 ## 🧠 What I'm Into
 
--Smart automation systems combining machine learning and robotics
--Human-centered technology design
--Bridging low-level technical expertise with high-level innovation
--Leading complex software projects through Agile methodologies
+- Smart automation systems combining machine learning and robotics
+- Human-centered technology design
+- Bridging low-level technical expertise with high-level innovation
+- Leading complex software projects through Agile methodologies
 
 ---
 
 ## 🛠 Notable Work
 
--**Baxter International Co-op:** Developed OCR-based robotic validation systems and Python test fixtures for medical device automation
--**SUNY Oswego Career Dashboard (PM & Developer):** Led a full-stack Agile team to create a mobile-friendly tool supporting student career readiness
--**Home Network Server:** Built a personal TrueNAS server for remote file access, media streaming, and storage
--**Robotic and Computer Vision Utilities:** Designed distortion correction algorithms, robot-to-camera calibration, translation matrix calculations, and robust configuration/data handling processes
+- **Baxter International Co-op:** Developed OCR-based robotic validation systems and Python test fixtures for medical device automation
+- **SUNY Oswego Career Dashboard (PM & Developer):** Led a full-stack Agile team to create a mobile-friendly tool supporting student career readiness
+- **Home Network Server:** Built a personal TrueNAS server for remote file access, media streaming, and storage
+- **Robotic and Computer Vision Utilities:** Designed distortion correction algorithms, robot-to-camera calibration, translation matrix calculations, and robust configuration/data handling processes
 
 ---
 
